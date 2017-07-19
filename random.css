@@ -1,0 +1,14 @@
+#arrow {
+    width: 300px;
+    height: 100px;
+    border: 10px solid black;
+    text-align: center;
+}
+
+.left{
+    background-image: url(img/arrow-left-thick.png);
+}
+
+.right{
+    background-image: url(img/arrow-right-bold.png);
+}
